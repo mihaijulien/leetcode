@@ -12,5 +12,5 @@
 |8|Solutions: [1](Array/TwoSum.java#L1)&nbsp;[2](Array/TwoSum.java#L14)|[Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)|
 |9|[Solution](Array/RotateImage.java)|[Rotate Image](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/770/)|
 |10|[Solution](Strings/ReverseString.java)|[Reverse String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/879/)|
-|11|[Solution](Strings/ReverseInteger.java)|[Reverse String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)|
-|12|[Solution](Strings/FirstUniqueCharjava)|[Reverse String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/881/)|
+|11|[Solution](Strings/ReverseInteger.java)|[Reverse Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)|
+|12|[Solution](Strings/FirstUniqueCharjava)|[First Unique Character in a String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/881/)|
