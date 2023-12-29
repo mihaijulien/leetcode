@@ -13,4 +13,6 @@
 |9|[Solution](Array/RotateImage.java)|[Rotate Image](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/770/)|
 |10|[Solution](Strings/ReverseString.java)|[Reverse String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/879/)|
 |11|[Solution](Strings/ReverseInteger.java)|[Reverse Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)|
-|12|[Solution](Strings/FirstUniqueCharjava)|[First Unique Character in a String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/881/)|
+|12|[Solution](Strings/FirstUniqueChar.java)|[First Unique Character in a String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/881/)|
+|13|[Solution](Strings/ValidAnagram.java)|[Valid Anagram](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/882/)|
+|14|[Solution](Strings/ValidPalindrome.java)|[Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/)|
