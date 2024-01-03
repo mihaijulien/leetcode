@@ -19,3 +19,4 @@
 |15|[Solution](Strings/Atoi.java)|[String to Integer (atoi)](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/884/)|
 |16|[Solution](Strings/strStr.java)|[Implement strStr()](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/885/)|
 |17|[Solution](Strings/LongestCommonPrefix.java)|[Longest Common Prefix](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/887/)|
+|18|[Solution](LinkedList/DeleteNode.java)|[Delete Node in a Linked List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/553/)|
