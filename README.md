@@ -20,3 +20,6 @@
 |16|[Solution](Strings/strStr.java)|[Implement strStr()](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/885/)|
 |17|[Solution](Strings/LongestCommonPrefix.java)|[Longest Common Prefix](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/887/)|
 |18|[Solution](LinkedList/DeleteNode.java)|[Delete Node in a Linked List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/553/)|
+|19|Solutions: [1](LinkedList/RemoveNthNode.java#L11)&nbsp;[2](LinkedList/RemoveNthNode.java#L40)|[Remove Nth Node From End of List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/603/)|
+|20|[Solution](LinkedList/ReverseLinkedList.java)|[Reverse Linked List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/560/)|
+|21|[Solution](LinkedList/MergeTwoSortedLists.java)|[Merge Two Sorted Lists](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/771/)|
