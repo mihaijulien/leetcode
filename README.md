@@ -23,3 +23,5 @@
 |19|Solutions: [1](LinkedList/RemoveNthNode.java#L11)&nbsp;[2](LinkedList/RemoveNthNode.java#L40)|[Remove Nth Node From End of List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/603/)|
 |20|[Solution](LinkedList/ReverseLinkedList.java)|[Reverse Linked List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/560/)|
 |21|[Solution](LinkedList/MergeTwoSortedLists.java)|[Merge Two Sorted Lists](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/771/)|
+|22|[Solution](LinkedList/PalindromeLinkedList.java)|[Palindrome Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)|
+|23|[Solution](LinkedList/LinkedListCycle.java)|[Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)|
