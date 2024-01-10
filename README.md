@@ -25,3 +25,6 @@
 |21|[Solution](LinkedList/MergeTwoSortedLists.java)|[Merge Two Sorted Lists](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/771/)|
 |22|[Solution](LinkedList/PalindromeLinkedList.java)|[Palindrome Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)|
 |23|[Solution](LinkedList/LinkedListCycle.java)|[Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)|
+|24|[Solution](Trees/MaxDepth.java)|[Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)|
+|25|[Solution](Trees/ValidBST.java)|[Validate Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/)|
+|26|[Solution](Trees/SymmetricTree.java)|[Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)|
