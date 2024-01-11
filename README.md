@@ -29,3 +29,4 @@
 |25|[Solution](Trees/ValidBST.java)|[Validate Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/)|
 |26|[Solution](Trees/SymmetricTree.java)|[Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)|
 |27|[Solution](Trees/LevelOrderTraversal.java)|[Binary Tree Level Order Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/)|
+|28|[Solution](Trees/ConvertArrayBST.java)|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)|
