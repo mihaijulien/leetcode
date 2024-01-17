@@ -32,3 +32,5 @@
 |28|[Solution](Trees/ConvertArrayBST.java)|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)|
 |29|[Solution](Sorting/MergeSortedArray.java)|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)|
 |30|[Solution](Sorting/FirstBadVersion.java)|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)|
+|31|Solutions: [1](DynamicProgramming/ClimbingStairs.java#L1) [2](DynamicProgramming/ClimbingStairs.java#L11)|[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)|
+
