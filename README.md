@@ -33,4 +33,6 @@
 |29|[Solution](Sorting/MergeSortedArray.java)|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)|
 |30|[Solution](Sorting/FirstBadVersion.java)|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)|
 |31|Solutions: [1](DynamicProgramming/ClimbingStairs.java#L1) [2](DynamicProgramming/ClimbingStairs.java#L11)|[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)|
-
+|32|[Solution](DynamicProgramming/BestTimeBuySellStock.java)|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)|
+|33|[Solution](DynamicProgramming/MaximumSubarray.java)|[Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)|
+|34|[Solution](DynamicProgramming/HouseRobber.java)|[House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)|
