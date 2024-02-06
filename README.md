@@ -36,3 +36,4 @@
 |32|[Solution](DynamicProgramming/BestTimeBuySellStock.java)|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)|
 |33|[Solution](DynamicProgramming/MaximumSubarray.java)|[Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)|
 |34|[Solution](DynamicProgramming/HouseRobber.java)|[House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)|
+|35|[Solution](Design/ShuffleAnArray.java)|[Shuffle An Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)|
