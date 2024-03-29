@@ -39,3 +39,6 @@
 |34|[Solution](DynamicProgramming/HouseRobber.java)|[House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)|
 |35|[Solution](Design/ShuffleAnArray.java)|[Shuffle An Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)|
 |36|[Solution](Design/MinStack.java)|[Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)|
+|37|[Solution](Math/FizzBuzz.java)|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)|
+|38|[Solution](Math/CountPrimes.java)|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)|
+|39|[Solution](Math/PowerOfThree.java)|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)|
