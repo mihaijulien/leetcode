@@ -48,3 +48,6 @@
 |43|[Solution](Math/FizzBuzz.java)|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)|
 |44|[Solution](Math/CountPrimes.java)|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)|
 |45|[Solution](Math/PowerOfThree.java)|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)|
+|46|[Solution](Backtracking/BinaryTreePaths.java)|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
+|47|[Solution](Backtracking/GenerateParantheses.java)|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|
+|48|[Solution](Backtracking/CombinationSum.java)|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|
