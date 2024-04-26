@@ -51,3 +51,4 @@
 |46|[Solution](Backtracking/BinaryTreePaths.java)|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
 |47|[Solution](Backtracking/GenerateParantheses.java)|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|
 |48|[Solution](Backtracking/CombinationSum.java)|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|
+|49|[Solution](Array/SearchMatrix.java)|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
