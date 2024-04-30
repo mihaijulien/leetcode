@@ -52,3 +52,6 @@
 |47|[Solution](Backtracking/GenerateParantheses.java)|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|
 |48|[Solution](Backtracking/CombinationSum.java)|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|
 |49|[Solution](Array/SearchMatrix.java)|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
+|50|[Solution](Others/PascalsTriangle.java)|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)|
+|51|[Solution](Others/ValidParantheses.java)|[Valid Parantheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)|
+|52|[Solution](Others/MissingNumber.java)|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)|
