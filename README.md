@@ -55,3 +55,4 @@
 |50|[Solution](Others/PascalsTriangle.java)|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)|
 |51|[Solution](Others/ValidParantheses.java)|[Valid Parantheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)|
 |52|[Solution](Others/MissingNumber.java)|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)|
+|53|[Solution](Others/LRUCache.java)|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
