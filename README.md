@@ -37,22 +37,24 @@
 |32|[Solution](Trees/SameTree.java)|[Same Tree](https://leetcode.com/problems/same-tree/)|
 |33|[Solution](Trees/LowestCommonAncestor.java)|[Lowesr Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
 |34|[Solution](Trees/KthSmallest.java)|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|
-|35|[Solution](Sorting/MergeSortedArray.java)|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)|
-|36|[Solution](Sorting/FirstBadVersion.java)|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)|
-|37|Solutions: [1](DynamicProgramming/ClimbingStairs.java#L1) [2](DynamicProgramming/ClimbingStairs.java#L11)|[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)|
-|38|[Solution](DynamicProgramming/BestTimeBuySellStock.java)|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)|
-|39|[Solution](DynamicProgramming/MaximumSubarray.java)|[Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)|
-|40|[Solution](DynamicProgramming/HouseRobber.java)|[House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)|
-|41|[Solution](Design/ShuffleAnArray.java)|[Shuffle An Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)|
-|42|[Solution](Design/MinStack.java)|[Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)|
-|43|[Solution](Math/FizzBuzz.java)|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)|
-|44|[Solution](Math/CountPrimes.java)|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)|
-|45|[Solution](Math/PowerOfThree.java)|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)|
-|46|[Solution](Backtracking/BinaryTreePaths.java)|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
-|47|[Solution](Backtracking/GenerateParantheses.java)|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|
-|48|[Solution](Backtracking/CombinationSum.java)|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|
-|49|[Solution](Array/SearchMatrix.java)|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
-|50|[Solution](Others/PascalsTriangle.java)|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)|
-|51|[Solution](Others/ValidParantheses.java)|[Valid Parantheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)|
-|52|[Solution](Others/MissingNumber.java)|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)|
-|53|[Solution](Others/LRUCache.java)|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
+|35|[Solution](Trees/PopulatingNextRightEachNode.java)|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|
+|36|[Solution](Trees/PathSum.java)|[Path Sum](https://leetcode.com/problems/path-sum/)|
+|37|[Solution](Sorting/MergeSortedArray.java)|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)|
+|38|[Solution](Sorting/FirstBadVersion.java)|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)|
+|39|Solutions: [1](DynamicProgramming/ClimbingStairs.java#L1) [2](DynamicProgramming/ClimbingStairs.java#L11)|[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)|
+|40|[Solution](DynamicProgramming/BestTimeBuySellStock.java)|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)|
+|41|[Solution](DynamicProgramming/MaximumSubarray.java)|[Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)|
+|42|[Solution](DynamicProgramming/HouseRobber.java)|[House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)|
+|43|[Solution](Design/ShuffleAnArray.java)|[Shuffle An Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)|
+|44|[Solution](Design/MinStack.java)|[Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)|
+|45|[Solution](Math/FizzBuzz.java)|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)|
+|46|[Solution](Math/CountPrimes.java)|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)|
+|47|[Solution](Math/PowerOfThree.java)|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)|
+|48|[Solution](Backtracking/BinaryTreePaths.java)|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
+|49|[Solution](Backtracking/GenerateParantheses.java)|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|
+|50|[Solution](Backtracking/CombinationSum.java)|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|
+|51|[Solution](Array/SearchMatrix.java)|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
+|52|[Solution](Others/PascalsTriangle.java)|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)|
+|53|[Solution](Others/ValidParantheses.java)|[Valid Parantheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)|
+|54|[Solution](Others/MissingNumber.java)|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)|
+|55|[Solution](Others/LRUCache.java)|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
