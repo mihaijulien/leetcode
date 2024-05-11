@@ -58,3 +58,5 @@
 |53|[Solution](Others/ValidParantheses.java)|[Valid Parantheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)|
 |54|[Solution](Others/MissingNumber.java)|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)|
 |55|[Solution](Others/LRUCache.java)|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
+|56|[Solution](Matrix/IslandPerimeter.java)|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|
+|57|[Solution](Matrix/ReshapeMatrix.java)|[Reshape Matrix](https://leetcode.com/problems/reshape-the-matrix/)|
