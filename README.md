@@ -60,3 +60,7 @@
 |55|[Solution](Others/LRUCache.java)|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
 |56|[Solution](Matrix/IslandPerimeter.java)|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|
 |57|[Solution](Matrix/ReshapeMatrix.java)|[Reshape Matrix](https://leetcode.com/problems/reshape-the-matrix/)|
+|58|[Solution](Matrix/TransposeMatrix.java)|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|
+|59|[Solution](Matrix/ToeplitzMatrix.java)|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|
+|60|[Solution](Matrix/AllGroupsOfFarmland.java)|[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)|
+|61|[Solution](Matrix/SetMatrixZeros.java)|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|
