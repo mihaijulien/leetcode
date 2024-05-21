@@ -68,5 +68,5 @@
 |64|[Solution](Matrix/AllGroupsOfFarmland.java)|[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)|
 |65|[Solution](Matrix/SetMatrixZeros.java)|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|
 |66|[Solution](Matrix/ValidSudoku.java)|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
-|67|[Solution](Graphs/NumberOfProvinces.java)[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
-|68|[Solution](Graphs/FindPathExists.java)[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+|67|[Solution](Graphs/NumberOfProvinces.java)|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|
+|68|[Solution](Graphs/FindPathExists.java)|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|
