@@ -28,10 +28,10 @@
 |23|[Solution](Strings/strStr.java)|[Implement strStr()](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/885/)|
 |24|[Solution](Strings/LongestCommonPrefix.java)|[Longest Common Prefix](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/887/)|
 |25|[Solution](Stacks/ImplementQueue.java)|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|
-|26|[Solution](Stacks/ValidParentheses.java)[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|
-|27|[Solution](Stacks/MinStack.java)[Min Stack](https://leetcode.com/problems/min-stack/submissions/)|
-|28|[Solution](Stacks/ReversePolishNotation)[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
-|29|[Solution](Stacks/RemoveAllAdjacentDuplicatesInString.java)[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|
+|26|[Solution](Stacks/ValidParentheses.java)|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|
+|27|[Solution](Stacks/MinStack.java)|[Min Stack](https://leetcode.com/problems/min-stack/submissions/)|
+|28|[Solution](Stacks/ReversePolishNotation)|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
+|29|[Solution](Stacks/RemoveAllAdjacentDuplicatesInString.java)|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|
 |30|[Solution](LinkedList/DeleteNode.java)|[Delete Node in a Linked List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/553/)|
 |31|Solutions: [1](LinkedList/RemoveNthNode.java#L11)&nbsp;[2](LinkedList/RemoveNthNode.java#L40)|[Remove Nth Node From End of List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/603/)|
 |32|[Solution](LinkedList/ReverseLinkedList.java)|[Reverse Linked List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/560/)|
