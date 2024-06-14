@@ -56,35 +56,38 @@
 |51|[Solution](Trees/PathSum.java)|[Path Sum](https://leetcode.com/problems/path-sum/)|
 |52|[Solution](Trees/SumRootLeafNumbers.java)|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|
 |53|[Solution](Trees/SerializeDeserializeBST.java)|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|
-|54|[Solution](Trees/DeleteNodesGivenValue.java)|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
-|55|[Solution](Sorting/MergeSortedArray.java)|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)|
-|56|[Solution](Sorting/FirstBadVersion.java)|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)|
-|57|Solutions: [1](DynamicProgramming/ClimbingStairs.java#L1)&nbsp;[2](DynamicProgramming/ClimbingStairs.java#L11)|[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)|
-|58|[Solution](DynamicProgramming/BestTimeBuySellStock.java)|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)|
-|59|[Solution](DynamicProgramming/MaximumSubarray.java)|[Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)|
-|60|[Solution](DynamicProgramming/HouseRobber.java)|[House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)|
-|61|Solutions: [1](DynamicProgramming/Tribonacci.java#L1)&nbsp;[2](DynamicProgramming/Tribonacci.java#L21)|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|
-|62|[Solution](Design/ShuffleAnArray.java)|[Shuffle An Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)|
-|63|[Solution](Design/MinStack.java)|[Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)|
-|64|[Solution](Math/FizzBuzz.java)|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)|
-|65|[Solution](Math/CountPrimes.java)|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)|
-|66|[Solution](Math/PowerOfThree.java)|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)|
-|67|[Solution](Backtracking/BinaryTreePaths.java)|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
-|68|[Solution](Backtracking/GenerateParantheses.java)|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|
-|69|[Solution](Backtracking/CombinationSum.java)|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|
-|70|[Solution](Backtracking/Permutations.java)|[Permutations](https://leetcode.com/problems/permutations/)|
-|71|[Solution](Array/SearchMatrix.java)|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
-|72|[Solution](Others/PascalsTriangle.java)|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)|
-|73|[Solution](Others/MissingNumber.java)|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)|
-|74|[Solution](Others/LRUCache.java)|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
-|75|[Solution](Others/InMemoryFileSystem.java)|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)|
-|76|[Solution](Matrix/IslandPerimeter.java)|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|
-|77|[Solution](Matrix/ReshapeMatrix.java)|[Reshape Matrix](https://leetcode.com/problems/reshape-the-matrix/)|
-|78|[Solution](Matrix/TransposeMatrix.java)|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|
-|79|[Solution](Matrix/ToeplitzMatrix.java)|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|
-|80|[Solution](Matrix/AllGroupsOfFarmland.java)|[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)|
-|81|[Solution](Matrix/SetMatrixZeros.java)|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|
-|82|[Solution](Matrix/ValidSudoku.java)|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
-|83|[Solution](Graphs/NumberOfProvinces.java)|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|
-|84|[Solution](Graphs/FindPathExists.java)|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|
-|85|[Solution](Graphs/EventualSafeStates.java)|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|
+|54|[Solution](Trees/DeleteNodesGivenValue.java)|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|
+|55|[Solution](Trees/TreeDiameter.java)|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|
+|56|[Solutions: [1](Trees/InvertTree.java#L17)&nbsp;[2](Trees/InvertTree.java#L44)|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|
+|57|[Solutions](Trees/BalancedTree.java)|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|
+|58|[Solution](Sorting/MergeSortedArray.java)|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)|
+|59|[Solution](Sorting/FirstBadVersion.java)|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)|
+|60|Solutions: [1](DynamicProgramming/ClimbingStairs.java#L1)&nbsp;[2](DynamicProgramming/ClimbingStairs.java#L11)|[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)|
+|61|[Solution](DynamicProgramming/BestTimeBuySellStock.java)|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)|
+|62|[Solution](DynamicProgramming/MaximumSubarray.java)|[Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)|
+|63|[Solution](DynamicProgramming/HouseRobber.java)|[House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)|
+|64|Solutions: [1](DynamicProgramming/Tribonacci.java#L1)&nbsp;[2](DynamicProgramming/Tribonacci.java#L21)|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|
+|65|[Solution](Design/ShuffleAnArray.java)|[Shuffle An Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)|
+|66|[Solution](Design/MinStack.java)|[Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)|
+|67|[Solution](Math/FizzBuzz.java)|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)|
+|68|[Solution](Math/CountPrimes.java)|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)|
+|69|[Solution](Math/PowerOfThree.java)|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)|
+|70|[Solution](Backtracking/BinaryTreePaths.java)|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
+|71|[Solution](Backtracking/GenerateParantheses.java)|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|
+|72|[Solution](Backtracking/CombinationSum.java)|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|
+|73|[Solution](Backtracking/Permutations.java)|[Permutations](https://leetcode.com/problems/permutations/)|
+|74|[Solution](Array/SearchMatrix.java)|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
+|75|[Solution](Others/PascalsTriangle.java)|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)|
+|76|[Solution](Others/MissingNumber.java)|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)|
+|77|[Solution](Others/LRUCache.java)|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
+|78|[Solution](Others/InMemoryFileSystem.java)|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)|
+|79|[Solution](Matrix/IslandPerimeter.java)|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|
+|80|[Solution](Matrix/ReshapeMatrix.java)|[Reshape Matrix](https://leetcode.com/problems/reshape-the-matrix/)|
+|81|[Solution](Matrix/TransposeMatrix.java)|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|
+|82|[Solution](Matrix/ToeplitzMatrix.java)|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|
+|83|[Solution](Matrix/AllGroupsOfFarmland.java)|[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)|
+|84|[Solution](Matrix/SetMatrixZeros.java)|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|
+|85|[Solution](Matrix/ValidSudoku.java)|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
+|86|[Solution](Graphs/NumberOfProvinces.java)|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|
+|87|[Solution](Graphs/FindPathExists.java)|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|
+|88|[Solution](Graphs/EventualSafeStates.java)|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/
