@@ -90,4 +90,4 @@
 |85|[Solution](Matrix/ValidSudoku.java)|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
 |86|[Solution](Graphs/NumberOfProvinces.java)|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|
 |87|[Solution](Graphs/FindPathExists.java)|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|
-|88|[Solution](Graphs/EventualSafeStates.java)|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/
+|88|[Solution](Graphs/EventualSafeStates.java)|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|
